@@ -1,2 +1,58 @@
-# hindi-news-scrapper
-This python program uses chrome webdriver and selenium to launch and scroll dynamic website of Dainik Bhaskar news outlet to scrape company specific Financial News (default currently set : sensex) using requests &amp; Beautiful soup, Lastly saving scraped data as xlsx file
+
+## hindi-news-scrapper
+
+    This python program gives out an excel(xlsx) file with Headlines & Articles on asked companies,indexed according to Publish datetime.
+    
+
+## What is this repository for?
+
+    hindi-news-scrapper
+
+    Version:- 1.0
+    Git clone :-https://github.com/amritrajpaul/hindi-news-scrapper.git
+
+## How do I get set up?
+
+    Set up all dependencies mentioned below
+    Python-3 software (Link:- https://www.python.org/downloads/)
+    Chrome WebDriver (Link:- https://chromedriver.chromium.org/downloads)
+    Save it in "C:\Program Files\Google\Chrome\Application\"
+    
+    Summary of set up:- Clone the file from repository after checking for chrome webdriver and follow the "deployment instructions".
+
+## Deployment instructions:-
+
+    In terminal go to your project directory
+    * pip install -r requirements.txt
+    * python3 hindi-news-scrapper
+
+## How to Contribute
+
+Find any typos? Have another resource you think should be included? Contributions are welcome!
+
+First, fork this repository.
+
+![Fork Icon](images/fork-icon.png)
+
+Next, clone this repository to your desktop to make changes.
+
+```sh
+$ git clone {YOUR_REPOSITORY_CLONE_URL}
+$ cd hindi-news-scrapper
+```
+
+Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
+
+![Pull Request Icon](images/pull-request-icon.png)
+
+Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request.
+
+## Who do I talk to?
+
+    Amritraj Paul
+    contact info:- amritrajpaul@gmail.com
+    LinkedIn:- https://www.linkedin.com/in/amritrajpaul
+
+## License
+
+        Apache License
