@@ -6,7 +6,7 @@
 
 ## What is this repository for?
 
-    hindi-news-scrapper
+    To Scrape Hindi Financial news Headlines and Articles
 
     Version:- 1.0
     Git clone :-https://github.com/amritrajpaul/hindi-news-scrapper.git
@@ -24,15 +24,13 @@
 
     In terminal go to your project directory
     * pip install -r requirements.txt
-    * python3 hindi-news-scrapper
+    * python hindi-news-scrapper
 
 ## How to Contribute
 
 Find any typos? Have another resource you think should be included? Contributions are welcome!
 
 First, fork this repository.
-
-![Fork Icon](images/fork-icon.png)
 
 Next, clone this repository to your desktop to make changes.
 
@@ -42,8 +40,6 @@ $ cd hindi-news-scrapper
 ```
 
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
-
-![Pull Request Icon](images/pull-request-icon.png)
 
 Instead of cloning the repository to your desktop, you can also go to `README.md` in your fork on GitHub.com, hit the Edit button (the button with the pencil) to edit the file in your browser, then hit the `Propose file change` button, and finally make a pull request.
 
